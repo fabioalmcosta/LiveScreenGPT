@@ -30,3 +30,10 @@ In the LiveScreen GPT settings, you have the following options:
 If you need further assistance, feel free to contact me at fabio.almcosta@gmail.com.
 
 **Note**: Ensure that you have the necessary permissions and comply with OpenAI's terms of use when using the OpenAI API key.
+
+## PrintScreens
+
+
+![image](https://github.com/fabioalmcosta/LiveScreenGPT/assets/40249761/6437caec-2e86-479d-a2ac-b0d4fb40f5cb)
+![image](https://github.com/fabioalmcosta/LiveScreenGPT/assets/40249761/f375d664-5558-4e99-8ec6-2dd2dcfb357b)
+
